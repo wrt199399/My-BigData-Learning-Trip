@@ -6,3 +6,4 @@ bigdata,study,demo,note
 2. 准备环境
 3. 安装hadoop
 4. hadoop3-HA高可用部署
+5. HDFS客户端操作
